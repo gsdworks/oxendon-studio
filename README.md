@@ -1,21 +1,11 @@
 # Oxendon Studio
 
-This is the GitHub for Oxendon Studio, an independent Shopify and web studio in Market Harborough, Leicestershire. Websites well made, inside and out.
+This is the GitHub of Grant Davies, founder and owner of Oxendon Studio.
 
-The studio is run by Grant Davies, a former Head of Ecommerce. Clients deal with Grant directly, from the first call to the last line of code, and after launch.
+Oxendon Studio is an independent Shopify and web studio in Market Harborough, Leicestershire. It builds custom Shopify themes and editorial websites, and the systems underneath them: product data, stock and warehouse integrations, feeds, tracking and email. Grant was previously Head of Ecommerce for brands including Stone Island, C.P. Company and Agent Provocateur, and clients deal with him directly.
 
-Most of the work here is client work in private repos.
-
-**What the studio does**
-
-- **Shopify builds**: custom themes on Shopify's own architecture (Horizon, Liquid, Online Store 2.0), large catalogues, international markets, migrations
-- **Websites**: brand and editorial sites in Astro, static and fast, hosted on Vercel and Cloudflare
-- **Data and integrations**: Python and Node for catalogue transforms, feed validation, bulk imports, API sync between platforms, scheduled jobs
-- **Email**: Klaviyo and Mailchimp set up properly, SPF, DKIM and DMARC, segmentation, deliverability
-- **Care plans and audits**: sites kept current and monitored, and fixed-price audits with a ranked list of what to fix first
-
-**How it builds**
-
-Clean code, version controlled, reviewed privately before launch, secure and compliant, checked after launch, and yours to own.
+Most of the work here is client work in private repos. It's built with Liquid and Shopify CLI for stores, Astro for websites, and Python and Node for data jobs, integrations and automation, all version controlled and reviewed before release.
 
 [oxendonstudio.com](https://oxendonstudio.com) · [hello@oxendonstudio.com](mailto:hello@oxendonstudio.com)
+
+Oxendon Studio Limited, registered in England and Wales, company number 17551167.
